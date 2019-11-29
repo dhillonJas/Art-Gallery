@@ -1,3 +1,5 @@
+	##Make a folder called "assets" and put all the images in it to run
+	
 	assets/
 		chimney.jpg
 		fire.png
