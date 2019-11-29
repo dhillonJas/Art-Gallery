@@ -1,0 +1,44 @@
+chimney
+	https://pixabay.com/en/seamless-texture-background-bricks-1657449/
+
+fire
+	http://comune.senise.eu/home/catasti_incendi/
+
+floor
+	https://freestocktextures.com/texture/granite-sleek-surface,817.html
+
+giftTop
+	https://pngtree.com/freepng/red-simple-gift-box-wrapped-border-texture_3094939.html
+
+nose
+	https://pixabay.com/en/citrus-fruit-skin-orange-texture-2523487/
+
+side1
+	https://pixabay.com/en/pattern-flower-texture-seamless-2807413/
+
+side2
+	https://pixabay.com/en/pattern-red-seamless-pattern-2806687/
+
+side3
+	https://pixabay.com/en/pattern-seamless-gingerbread-1084046/
+
+side4
+	https://pixabay.com/en/star-pattern-seamless-wallpaper-2831632/
+
+side5
+	https://pixabay.com/en/seamless-tileable-texture-laminate-1747011/
+
+snowman
+	https://www.maxpixel.net/Photo-Texture-Background-Snow-Winter-Design-1186174
+
+tree
+	https://fr.dreamstime.com/photo-stock-mur-vert-d-un-jardin-image51747775
+
+treeBark
+	https://libreshot.com/tree-bark-texture/
+
+treeTex
+	https://www.clipartmax.com/middle/m2i8i8Z5H7A0H7b1_transparent-christmas-cliparts-christmas-tree-clipart-transparent-background/
+
+wall
+	https://pixabay.com/en/texture-wall-gray-wall-texture-1033755/
