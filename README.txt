@@ -1,7 +1,3 @@
-Readme.txt
-
-Q1/
-	Q1.pde
 	assets/
 		chimney.jpg
 		fire.png
@@ -18,6 +14,7 @@ Q1/
 		treeBark.jpg
 		treeTex.png
 		wall.jpg
+
 
 	all are cited in a different txt file 'citations.txt' in assets folder
 
